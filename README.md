@@ -23,7 +23,3 @@ Soy **Ingeniero en Sistemas Computacionales** con pasión por el desarrollo web 
 ## 📈 Estadísticas de GitHub
 
 ![Luisgpm's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgpm&show_icons=true&theme=radical)
-
----
-
-¡Gracias por visitar mi perfil!
