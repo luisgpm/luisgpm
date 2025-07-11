@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Luis Gererardo Porcayo 👋
 
-<!--
-**luisgpm/luisgpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mí
 
-Here are some ideas to get you started:
+Soy **Ingeniero en Sistemas Computacionales** con pasión por el desarrollo web y el desarrollo de aplicaciones móviles. Me encanta crear soluciones tecnológicas que impacten positivamente en las personas y las empresas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías y Herramientas
+
+- **Java**
+- **Laravel**
+- **PHP**
+- **JavaScript**
+- **jQuery**
+- **MySQL**
+- **Oracle**
+
+## 🚀 Actualmente aprendiendo
+
+- **Flutter**
+- **React**
+- **Vue.js**
+
+## 📈 Estadísticas de GitHub
+
+![Luisgpm's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgpm&show_icons=true&theme=radical)
+
+---
+
+¡Gracias por visitar mi perfil!
